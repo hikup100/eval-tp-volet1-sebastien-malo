@@ -1,0 +1,45 @@
+{
+  "entete": {
+    "altLogo": "ホーム",
+    "placeholderRecherche": "検索",
+    "menuTeeshirts": "Tシャツ",
+    "menuCasquettes": "キャップ",
+    "menuHoodies": "フーディー",
+    "menuAide": "ヘルプ",
+    "menuNous": "私たちについて"
+  },
+  "pp": {
+    "achatsTitre": "あなたの購入",
+    "navAchatsFaq": "よくある質問",
+    "navAchatsLivraison": "配送",
+    "navAchatsConditions": "販売条件",
+    "navAchatsConfidentialite": "プライバシーポリシー",
+    "aProposTitre": "teeTIMについて",
+    "aProposCompagnie": "会社",
+    "aProposEquipe": "チーム",
+    "aProposEmplois": "求人",
+    "joindreTitre": "お問い合わせ",
+    "joindreTelEtiquette": "フリーダイヤル: ",
+    "joindreCourrielEtiquette": "メール: ",
+    "droits": "全著作権所有。"
+  },
+  "accueil": {
+    "amorceTitre": "ケベック製のTシャツ、フーディー、キャップ 💯",
+    "amorceSousTitre": "TIMで❤️を込めてデザイン",
+    "amorceSousTitre2": "DALL-Eのちょっとした助けを借りて😉",
+    "para1": "今日、Tシャツは誰もが持っているワードローブの定番です。そして、環境問題がこれまで以上に重要な時代において、環境への影響を減らし、地元の職人技を強調するために、ケベック製のTシャツを好みます。",
+    "para2": "Vネック、ラウンドネック、ゆったりまたはフィット、短袖または寒がりのための長袖、無地またはパターン入りでスタイルを整える... Tシャツはさまざまな色、スタイル、パターンで利用できます。"
+  },
+  "teeshirts": {
+    "titrePage": "私たちのTシャツ",
+    "aVenir": "近日公開..."
+  },
+  "casquettes": {
+    "titrePage": "私たちのキャップ",
+    "aVenir": "近日公開..."
+  },
+  "hoodies": {
+    "titrePage": "私たちのフーディー",
+    "aVenir": "近日公開..."
+  }
+}

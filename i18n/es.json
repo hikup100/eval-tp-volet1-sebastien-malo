@@ -1,0 +1,45 @@
+{
+  "entete": {
+    "altLogo": "Inicio",
+    "placeholderRecherche": "Buscar",
+    "menuTeeshirts": "Camisetas",
+    "menuCasquettes": "Gorras",
+    "menuHoodies": "Sudaderas",
+    "menuAide": "Ayuda",
+    "menuNous": "Sobre Nosotros"
+  },
+  "pp": {
+    "achatsTitre": "Tus Compras",
+    "navAchatsFaq": "Preguntas Frecuentes",
+    "navAchatsLivraison": "Entrega de Paquetes",
+    "navAchatsConditions": "Términos de Venta",
+    "navAchatsConfidentialite": "Política de Privacidad",
+    "aProposTitre": "Sobre teeTIM",
+    "aProposCompagnie": "La Compañía",
+    "aProposEquipe": "El Equipo",
+    "aProposEmplois": "Empleos",
+    "joindreTitre": "Contáctanos",
+    "joindreTelEtiquette": "Llamada Gratuita: ",
+    "joindreCourrielEtiquette": "Correo Electrónico: ",
+    "droits": "Todos los derechos reservados."
+  },
+  "accueil": {
+    "amorceTitre": "Camisetas, sudaderas y gorras hechas en Quebec 💯",
+    "amorceSousTitre": "Diseñado en TIM con ❤️",
+    "amorceSousTitre2": "con un poco de ayuda de DALL-E 😉",
+    "para1": "Hoy en día, la camiseta es un básico en el armario de todos. Y en una era donde los problemas ambientales son más urgentes que nunca, preferimos camisetas hechas en Quebec para reducir el impacto ambiental y resaltar la artesanía local.",
+    "para2": "Cuello en V, cuello redondo, suelta o ajustada, mangas cortas o largas para los frioleros, lisa o estampada para estilizar un conjunto... La camiseta está disponible en una variedad de colores, estilos y patrones."
+  },
+  "teeshirts": {
+    "titrePage": "Nuestras Camisetas",
+    "aVenir": "Próximamente..."
+  },
+  "casquettes": {
+    "titrePage": "Nuestras Gorras",
+    "aVenir": "Próximamente..."
+  },
+  "hoodies": {
+    "titrePage": "Nuestras Sudaderas",
+    "aVenir": "Próximamente..."
+  }
+}
